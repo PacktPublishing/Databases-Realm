@@ -1,5 +1,3 @@
-# Databases-Realm
-Code repository for Databases: Realm, published by Packt
 # Databases: Realm
 This is the code repository for [Databases: Realm](https://www.packtpub.com/big-data-and-business-intelligence/real-world-python-deep-learning-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781788620161), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
